@@ -1,0 +1,11 @@
+# Install Python dependencies with:
+#   python -m pip install -r requirements.txt
+#
+# Install project dependencies with:
+#   python -m pip install -r requirements.txt
+#
+# Jalali/Gregorian date conversion
+persiantools
+
+# Tkinter is part of Python on Windows/macOS. On Linux, install it through
+# your OS package manager (for example: sudo apt install python3-tk).
